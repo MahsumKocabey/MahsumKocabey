@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahsumKocabey
 - 👀 I’m interested in Data Science / Analytics and Engineering.
-- 📚 22' Computer Science graduate who is currently studying MSc in Data Science at Kings College London.
+- 📚 BSc Computer Science and MSc Data Science Graduate from Kings College London.
 - 📫 How to reach me: https://www.linkedin.com/in/mahsumkocabey/
 
 <!---
